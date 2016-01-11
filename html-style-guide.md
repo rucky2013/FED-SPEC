@@ -7,6 +7,8 @@
 
 HTML 是超文本标记语言。本文档的目标是使 HTML 代码风格保持一致，容易被理解和被维护。
 
+HTML 语言掌握情况[测试](http://www.w3school.com.cn/quiz/quiz.asp?quiz=html)，基础[教程](http://www.w3school.com.cn/html/index.asp)
+
 
 ## 2 代码风格
 

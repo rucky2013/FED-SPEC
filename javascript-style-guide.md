@@ -8,6 +8,8 @@ JavaScript 是最火的前端脚本语言（近些年因为CommonJS规范的完�
 虽然本文档是针对 JavaScript 设计的，但是在使用各种 JavaScript 的预编译语言时(如 TypeScript 等)时，适用的部分也应尽量遵循本文档的约定。
 
 
+JavaScript 语言掌握情况[测试](http://www.w3school.com.cn/quiz/quiz.asp?quiz=js)，基础[教程](http://www.w3school.com.cn/js/index.asp)
+
 ## 2 代码风格
 
 
