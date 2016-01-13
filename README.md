@@ -22,8 +22,8 @@
 声明：文档大部分参考[百度前端开发][5]规范修改
 
 
-  [1]: https://github.com/ForestarFED/FED-SPEC/blob/master/css-style-guide.md
-  [2]: https://github.com/ForestarFED/FED-SPEC/blob/master/html-style-guide.md
-  [3]: https://github.com/ForestarFED/FED-SPEC/blob/master/javascript-style-guide.md
-  [4]: https://github.com/ForestarFED/FED-SPEC/blob/master/other-style-guide.md
+  [1]: css-style-guide.md
+  [2]: html-style-guide.md
+  [3]: javascript-style-guide.md
+  [4]: other-style-guide.md
   [5]: https://github.com/ecomfe/spec
