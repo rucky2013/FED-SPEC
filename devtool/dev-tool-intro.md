@@ -19,7 +19,7 @@
 但在使用`了Chrome开发者调式工具`后，我就喜欢上它的简洁、快速，无论是启动速度还是页面解析速度还是Javascript执行速度。
 
 但是，作为前端开发，功能和页面样式等必须兼容各个主流浏览器，包括`Internet Explorer`各个版本的兼容。
-所以，不管你喜欢使用说明调式工具，`Internet Explorer`浏览器的调式使用方法也必须掌握，另外IE低版本和高版本调式工具界面有些改变了。
+所以，不管你喜欢使用说明调式工具，`Internet Explorer`浏览器的调式使用方法也必须掌握。
 
 #### 3、总结
 
@@ -40,7 +40,7 @@ Java Web项目开发的话，`MyEclipse（eclipse）`当然算是优先选用的
 
 但是对于CSS、HTML、JavaScript代码的编写，作为一名FED（Front-End Developer)，你需要更快更方便的代码编辑器。
 
-强烈推荐使用以下替代MyEclipse
+强烈推荐使用以下工具替代MyEclipse编写你的前端代码
 
  - [Sublime Text][2] 速度快，轻且小，可以通过安装插件来满足你想要的效果，点击看官网Gif就知道他有多方便。
  
