@@ -19,6 +19,8 @@
 
 ---
 
+你可以在[Github](https://github.com/ForestarFED/FED-SPEC)上Fork或Star本文挡
+
 *声明：文档参考[百度前端开发规范]修改，或整理于互联网。*
 
 *整理人：[contibutors](https://github.com/ForestarFED/FED-SPEC/graphs/contributors)*
