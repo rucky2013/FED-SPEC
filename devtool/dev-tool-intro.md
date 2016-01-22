@@ -50,7 +50,7 @@ Java Web项目开发的话，`MyEclipse（eclipse）`当然算是优先选用的
 
 等其他类似的前端代码编辑器，看个人习惯和喜好。
 
-以上三款都支持[Zen Coding][4]，用习惯后，熟悉使用快捷键，你编码的速度会比`MyEclipse`快上十倍（指的是前端CSS\HTML\JS）。
+以上三款都支持[Zen Coding][4]，用习惯后，熟悉使用快捷键，你编码的速度会快上几倍。
 
 教程：[Sublime Text视频教程][5]
 
