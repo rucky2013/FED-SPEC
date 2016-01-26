@@ -8,7 +8,7 @@
 #### 1、浏览器开发调式工具推荐三种
 
  - Google Chrome  推荐 ★★★★★
- - Firefox Chrome  推荐 ★★★★
+ - Firefox Firebug  推荐 ★★★★
  - Internet Explorer 推荐 ★
 
  
