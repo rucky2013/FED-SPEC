@@ -8,3 +8,4 @@ This is the summary of my book.
 * [其他规范](other-style-guide.md)
 * [开发工具的使用](./devtool/dev-tool-intro.md)
     * [Chrome Dev Tool使用教程](./devtool/chrome-dev-course.md)
+* [好书推荐](recommended-books.md)
