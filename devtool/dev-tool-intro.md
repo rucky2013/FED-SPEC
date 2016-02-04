@@ -31,7 +31,7 @@
 
 [Firefox Firebug Tool 使用教程][1]
 
-Internet Explorer 9 调式教程（临时没找到好的教程，自行去了解，这不是歧视，作为FED，不管你多么不喜欢IE，你都必须熟悉IE，因为用户量比例挺多）
+Internet Explorer 9 调式教程（临时没找到好的教程，自行去了解，作为FED，不管你多么不喜欢IE，你都必须熟悉IE，因为IE是主流浏览器之一）
 
 
 ## 二、代码编辑器（IDE）

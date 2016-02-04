@@ -1,9 +1,9 @@
 
 # 前端开发规范序言
 
-受托于肖经理，整理一些关于前端开发的规范，一些内容可能需要针对实际情况做调整。
+本文档主要内容是前端开发规范，除规范外加入了一些关于前端学习的篇章，一些内容可能需要针对实际情况做调整；
 
-文档中会指出哪些是`强制`要求和`建议`要求的，前端开发人员在工作写代码之前，请认真阅读此开发规范！
+文档中会指出哪些是`强制`要求和`建议`要求的，前端开发人员在工作写代码之前，请认真阅读此开发规范相关章节！
 
 目录
 
@@ -12,20 +12,20 @@
  3. [JavaScript编码规范][3]
  4. [其他规范][4]
  5. [开发工具的使用][5]
- 6. 前端优化
+ 6. [好书推荐篇][6]
+ 7. [学习指导篇][7]
+ 99. 前端优化（待整理和编写）
 
 
 
 
 ---
 
-你可以在[Github](https://github.com/ForestarFED/FED-SPEC)上Fork或Star本文挡
+文档会不定时更新，Watch或Star本文挡——[Github](https://github.com/ForestarFED/FED-SPEC)，更欢迎您加入编辑维护
 
-*声明：文档参考[百度前端开发规范]修改，或整理于互联网。*
+*声明：文档参考[百度前端开发规范]修改，或整理于互联网，如有侵权请联系giscafer@outlook.com。*
 
-*整理人：[contibutors](https://github.com/ForestarFED/FED-SPEC/graphs/contributors)*
-
-*（如果您有好的文档，请分享或者加入编辑！）*
+*整理人列表：[contibutors](https://github.com/ForestarFED/FED-SPEC/graphs/contributors)*
 
 
   [1]: css-style-guide.md
@@ -33,4 +33,5 @@
   [3]: javascript-style-guide.md
   [4]: other-style-guide.md
   [5]: ./devtool/dev-tool-intro.md
-  [11]: https://github.com/ecomfe/spec
+  [6]: recommended-books.md
+  [7]: study-guide.md

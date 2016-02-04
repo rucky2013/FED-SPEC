@@ -8,4 +8,7 @@ This is the summary of my book.
 * [其他规范](other-style-guide.md)
 * [开发工具的使用](./devtool/dev-tool-intro.md)
     * [Chrome Dev Tool使用教程](./devtool/chrome-dev-course.md)
-* [好书推荐](recommended-books.md)
+* [好书推荐篇](recommended-books.md)
+* [学习指导篇](study-guide.md)
+    * [Web Developer 成长路线图](./study_guide/000-Developer.md)
+    * [前端StuQ技能图谱](./study_guide/002-WebStuQ.md)
