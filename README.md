@@ -21,7 +21,7 @@
 
 ---
 
-文档会不定时更新，Watch或Star本文挡——[Github](https://github.com/ForestarFED/FED-SPEC)，更欢迎您加入编辑维护
+文档会不定时更新，可以`Watch`或`Star`本文挡——[Github](https://github.com/ForestarFED/FED-SPEC)，更欢迎您加入编辑维护
 
 *声明：文档参考[百度前端开发规范]修改，或整理于互联网，如有侵权请联系giscafer@outlook.com。*
 
