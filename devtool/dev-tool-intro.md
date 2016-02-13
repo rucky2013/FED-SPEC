@@ -33,6 +33,7 @@
 
 Internet Explorer 9 调式教程（临时没找到好的教程，自行去了解，作为FED，不管你多么不喜欢IE，你都必须熟悉IE，因为IE是主流浏览器之一）
 
+**PS:** Chrome Developer Tools视频教程在[freecodecamp](http://www.freecodecamp.com/)站点有，可以注册账号观看一下 
 
 ## 二、代码编辑器（IDE）
 
