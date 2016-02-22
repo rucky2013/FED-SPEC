@@ -214,4 +214,4 @@
   - Canvas: CreateJS/KineticJS
   - WebGL/Three.JS
 
-### Collect From:http://www.stuq.org/subject/skill-map/
+Collect From:http://www.stuq.org/subject/skill-map/

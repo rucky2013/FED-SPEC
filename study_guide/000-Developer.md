@@ -74,5 +74,5 @@ Web杂项
 
 ## License
 
-© 2015 [Phodal Huang](http://www.phodal.com). This code is distributed under the MIT license. See `LICENSE.txt` in this directory.
+© 2015 Phodal Huang. 
 
