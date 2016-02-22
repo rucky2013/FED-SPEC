@@ -9,7 +9,7 @@
 
  - Google Chrome  推荐 ★★★★★
  - Firefox Firebug  推荐 ★★★★
- - Internet Explorer 推荐 ★
+ - Internet Explorer 推荐 ★★★
 
  
 #### 2、说明：
@@ -37,13 +37,13 @@ Internet Explorer 9 调式教程（临时没找到好的教程，自行去了解
 
 ## 二、代码编辑器（IDE）
 
-Java Web项目开发的话，`MyEclipse（eclipse）`当然算是优先选用的。至于版本问题，建议使用`MyEclipse10.`7代替`10.0版本`，效率问题，10.0的太卡。或者能选择`MyEclipse2015`也不错的.
+Java Web项目开发的话，`MyEclipse（eclipse）`当然算是优先选用的。至于版本问题，建议使用`MyEclipse10.7`代替`10.0版本`，效率问题，10.0的太卡。或者能选择`MyEclipse2015`也不错的.
 
 但是对于CSS、HTML、JavaScript代码的编写，作为一名FED（Front-End Developer)，你需要更快更方便的代码编辑器。
 
 强烈推荐使用以下工具替代MyEclipse编写你的前端代码
 
- - [Sublime Text][2] 速度快，轻且小，可以通过安装插件来满足你想要的效果，点击看官网Gif就知道他有多方便。
+ - [Sublime Text][2] 速度快，轻且小，可以通过安装插件来满足你想要的效果，可以看官网介绍就知道他有多方便。
  
  - [WebStorm][3]前端神器，你想要的任何效果他都有，不过比较重，电脑配置好的或者是不想安装插件的，可以用这个。
  
@@ -61,8 +61,9 @@ Java Web项目开发的话，`MyEclipse（eclipse）`当然算是优先选用的
 
  - [开源API文档大全][6]
  - [Open开发经验][7]
- - [在线常用工具][8]
- - JS代码检查工具建议使用[JSHint][9]或者[JSLint][10]
+ - [开源社区工具][8]
+ - [在线工具](http://tool.lu/)
+ - JS代码检查工具[JSHint][9]或[JSLint][10]
 
 （很多，不一一列举，针对前端开发工程师来说，这只是小部分）
 
