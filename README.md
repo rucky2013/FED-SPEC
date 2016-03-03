@@ -14,7 +14,7 @@
  5. [开发工具的使用][5]
  6. [好书推荐篇][6]
  7. [学习指导篇][7]
- 99. 前端优化（待整理）
+ 99. [前端优化][8]
 
 
 
@@ -35,3 +35,4 @@
   [5]: ./devtool/dev-tool-intro.md
   [6]: recommended-books.md
   [7]: study-guide.md
+  [8]: web-performance-optimization
