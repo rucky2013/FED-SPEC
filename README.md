@@ -35,4 +35,4 @@
   [5]: ./devtool/dev-tool-intro.md
   [6]: recommended-books.md
   [7]: study-guide.md
-  [8]: web-performance-optimization
+  [8]: web-performance-optimization.md
