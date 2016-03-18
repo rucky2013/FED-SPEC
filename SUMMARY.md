@@ -13,3 +13,4 @@ This is the summary of my book.
     * [Web Developer 成长路线图](./study_guide/000-Developer.md)
     * [前端StuQ技能图谱](./study_guide/002-WebStuQ.md)
 * [前端优化](web-performance-optimization.md)
+	* [性能优化篇一](./performance_optimization/web_performance_optimization01.md)
