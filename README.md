@@ -14,8 +14,8 @@
  5. [开发工具的使用][5]
  6. [好书推荐篇][6]
  7. [学习指导篇][7]
- 99. [前端优化][8]
-
+ 8. [前端优化][8]
+ 9. [其他][9]
 
 目录不全，请阅读[在线版](https://giscafer.gitbooks.io/fed-spec/content)
 
@@ -37,3 +37,4 @@
   [6]: recommended-books.md
   [7]: study-guide.md
   [8]: web-performance-optimization.md
+  [9]: ./other_tech/http-api-design.md
