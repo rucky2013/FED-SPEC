@@ -9,6 +9,8 @@ This is the summary of my book.
 * [开发工具的使用](./devtool/dev-tool-intro.md)
     * [Chrome Dev Tool使用教程](./devtool/chrome-dev-course.md)
 * [好书推荐篇](recommended-books.md)
+	* [程序员应该阅读的非编程类书籍有哪些](./recommended_books/what-non-programming-books-should-programmers-read.md)
+	* [免费的计算机编程类中文书籍](./recommended_books/free-programming-books.md)
 * [学习指导&资源篇](study-guide.md)
     * [Web Developer 成长路线图](./study_guide/000-Developer.md)
     * [前端StuQ技能图谱](./study_guide/002-WebStuQ.md)
