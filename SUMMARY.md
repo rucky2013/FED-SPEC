@@ -8,6 +8,7 @@ This is the summary of my book.
 * [其他规范](other-style-guide.md)
 * [开发工具的使用](./devtool/dev-tool-intro.md)
     * [Chrome Dev Tool使用教程](./devtool/chrome-dev-course.md)
+    * [Github与git的使用](./devtool/awesome-github.md)
 * [好书推荐篇](recommended-books.md)
 	* [程序员应该阅读的非编程类书籍有哪些](./recommended_books/what-non-programming-books-should-programmers-read.md)
 	* [免费的计算机编程类中文书籍](./recommended_books/free-programming-books.md)
