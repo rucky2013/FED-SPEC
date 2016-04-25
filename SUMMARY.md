@@ -19,5 +19,6 @@ This is the summary of my book.
     * [JavaScript资源大全](./study_guide/004-awesome-javascript-cn.md)
 * [前端优化](web-performance-optimization.md)
 	* [性能优化篇一](./performance_optimization/web_performance_optimization01.md)
+	* [性能优化资源列表(en)](./performance_optimization/awesome-wpo-list.md)
 * [其他干货]
 	* [HTTP API 设计指南](./other_tech/http-api-design.md)
