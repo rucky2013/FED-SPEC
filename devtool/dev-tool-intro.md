@@ -65,7 +65,7 @@ Java Web项目开发的话，`MyEclipse（eclipse）`当然算是优先选用的
  - [在线工具](http://tool.lu/)
  - JS代码检查工具[JSHint][9]或[JSLint][10]
 
-（很多，不一一列举，针对前端开发工程师来说，这只是小部分）
+（很多，不一一列举，针对前端开发工程师来说，这只是小部分，详情请去了解【学习指导&资源篇】）
 
   [1]: http://www.ruanyifeng.com/blog/2008/06/firebug_tutorial.html
   [2]: http://www.sublimetext.com/
