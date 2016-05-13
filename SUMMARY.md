@@ -21,4 +21,5 @@ This is the summary of my book.
 	* [性能优化篇一](./performance_optimization/web_performance_optimization01.md)
 	* [性能优化资源列表(en)](./performance_optimization/awesome-wpo-list.md)
 * [其他干货]
-	* [HTTP API 设计指南](./other_tech/http-api-design.md)
+    * [HTTP API 设计指南](./other_tech/http-api-design.md)
+	* [完美判断IE各版本](./other_tech/the-best-method-to-detect-browser.md)
