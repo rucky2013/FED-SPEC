@@ -10,7 +10,7 @@ This is the summary of my book.
     * [Chrome Dev Tool使用教程](./devtool/chrome-dev-course.md)
     * [Github与git的使用](./devtool/awesome-github.md)
 * [好书推荐篇](recommended-books.md)
-	* [程序员应该阅读的非编程类书籍有哪些](./recommended_books/what-non-programming-books-should-programmers-read.md)
+	* [非编程类书籍推荐](./recommended_books/what-non-programming-books-should-programmers-read.md)
 	* [免费的计算机编程类中文书籍](./recommended_books/free-programming-books.md)
 * [学习指导&资源篇](study-guide.md)
     * [Web Developer 成长路线图](./study_guide/000-Developer.md)
