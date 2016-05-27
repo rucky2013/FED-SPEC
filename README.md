@@ -19,6 +19,8 @@
 
 目录不全，请阅读[在线版](https://giscafer.gitbooks.io/fed-spec/content)
 
+下载离线版：[pdf](https://www.gitbook.com/download/pdf/book/giscafer/fed-spec)、[epub](https://www.gitbook.com/download/epub/book/giscafer/fed-spec)、[mobi](https://www.gitbook.com/download/mobi/book/giscafer/fed-spec)
+
 
 ---
 
